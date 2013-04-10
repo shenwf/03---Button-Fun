@@ -4,7 +4,7 @@
 //
 //  Created by Dave Mark on 8/28/11.
 //  Copyright (c) 2011 Dave Mark. All rights reserved.
-// configls
+//
 
 #import "BIDViewController.h"
 
